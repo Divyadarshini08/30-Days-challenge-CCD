@@ -14,8 +14,9 @@ Out of N students who want to attend an IPL match, only M tickets are available.
 5. If the difference is positive, print it
 6. Else, print 0 (all students get tickets)
 
-**Solution (JAVA)**
+**code**
 
+```java
 import java.util.*;
 import java.lang.*;
 import java.io.*;
