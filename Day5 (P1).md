@@ -1,7 +1,7 @@
 Day 5 of 30 Days Challenge
 
 **PROBLEM:** Minimum Number of Operations to Make Elements in Array Distinct.
-**PROBLEM LINK: **https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08
+**PROBLEM LINK:** https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08
 
 Given an integer array nums. You need to ensure that the elements in the array are distinct. To achieve this, you can perform the following operation any number of times:
 Remove 3 elements from the beginning of the array. If the array has fewer than 3 elements, remove all remaining elements.
